@@ -9,7 +9,7 @@ A legacy BBS with cross-site scripting vulnerablity (Hakoniwa XSS) for in-house 
 Steal admin's password by XSS, and login.
 
 ## Released Binaries
-https://github.com/ymzkei5/xssBBS/Binaries/
+https://github.com/ymzkei5/xssBBS/tree/master/Binaries/
 
 ## Author
 Keigo YAMAZAKI (@ymzkei5)
