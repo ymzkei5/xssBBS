@@ -1,6 +1,6 @@
 # xssBBS - Hakoniwa XSS BBS
 
-![xssBBS](https://github.com/ymzkei5/xssBBS/xssBBS.png)
+<img src="https://github.com/ymzkei5/xssBBS/blob/master/xssBBS.png?raw=true" width=550>
 
 ## What's this
 A legacy BBS with cross-site scripting vulnerablity (Hakoniwa XSS) for in-house jeopardy CTF.
